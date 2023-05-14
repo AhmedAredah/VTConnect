@@ -62,4 +62,4 @@ You can run the application using the command java VTConnect to execute the prov
 Note: Make sure to replace VTConnect with the appropriate class name if you have renamed the main class.
 
 
-Important Note: Students are strictly prohibited from copying any part of the code provided in this README file. The code and descriptions are meant to guide and explain the structure and functionality of the Mini Social Networking App (VTConnect) for educational purposes. It is the responsibility of the students to implement the code on their own, ensuring academic integrity and avoiding any form of plagiarism.
+**Important Note: Students are strictly prohibited from copying any part of the code provided in this project. The code and descriptions are meant to guide and explain the structure and functionality of the Mini Social Networking App (VTConnect) for educational purposes. It is the responsibility of the students to implement the code on their own, ensuring academic integrity and avoiding any form of plagiarism.**

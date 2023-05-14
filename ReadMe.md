@@ -6,13 +6,15 @@ In this project, we are going to develop a mini social networking application ca
 
 In this project, you will build a simple social networking app that uses graph data structure.  The following is a simple demo of the system. 
 
-![](Aspose.Words.a5ed7864-3387-4bb3-9042-ba1aac1fba65.001.jpeg)
+![Aspose Words a5ed7864-3387-4bb3-9042-ba1aac1fba65 001](https://github.com/AhmedAredah/VTConnect/assets/77444744/35171ef3-d143-40e5-a54d-3e0826fb0bb0)
+
 
 **Example Run (Command Line)** 
 
 ➢  java Driver2  
 
-![](Aspose.Words.a5ed7864-3387-4bb3-9042-ba1aac1fba65.002.jpeg)
+![Aspose Words a5ed7864-3387-4bb3-9042-ba1aac1fba65 002](https://github.com/AhmedAredah/VTConnect/assets/77444744/1eefe10b-4849-44e8-9ef5-6b146b9e737b)
+
 
 **Implementation/Classes** 
 
